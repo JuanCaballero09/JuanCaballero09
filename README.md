@@ -47,9 +47,3 @@
 ---
 
 ✨ *"Transforming ideas into code that makes life simpler."*  
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif" 
-     alt="Imagen cover" 
-     style="width: 100%; object-fit: cover;">
-</p>
