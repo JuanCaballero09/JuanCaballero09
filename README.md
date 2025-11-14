@@ -23,7 +23,7 @@
 
 ### 🚀 Tech Stack & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ruby,rails,flutter,dart,html,css,js,java,postgresql,mysql,docker,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=ruby,rails,flutter,dart,html,css,js,java,postgresql,mysql,docker,git,github,linux,vscode,react" />
 </p>
 
 ---
