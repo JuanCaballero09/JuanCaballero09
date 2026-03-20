@@ -12,18 +12,18 @@
 
 ### 👨‍💻 About Me  
 - 🎓 Software Analysis and Development Technologist.  
-- 💡 Specialized in **backend development with Ruby on Rails** and **frontend with HTML, CSS, JS, and Flutter**.  
+- 💡 Specialized in **backend development with Ruby on Rails and Python** and **frontend with HTML, CSS, JS, Flutter and ReactJS**.  
 - ⚡ I’m passionate about building applications that **solve real-world problems** and make life easier.  
-- 🖥️ Backend: **Ruby on Rails, SQL, PostgreSQL**.  
-- 🎨 Frontend: **HTML, CSS, JavaScript, Flutter**.  
-- 🔧 Other languages: **Ruby, Dart, Java, JavaScript, Visual Basic**.  
+- 🖥️ Backend: **Ruby on Rails, Python, SQL, PostgreSQL**.  
+- 🎨 Frontend: **HTML, CSS, JavaScript, Flutter, React**.  
+- 🔧 Other languages: **Ruby, Dart, Java, JavaScript, Visual Basic, Python**.  
 - 🌍 Open to collaboration on innovative and impactful projects.  
 
 ---
 
 ### 🚀 Tech Stack & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ruby,rails,flutter,dart,html,css,js,java,postgresql,mysql,docker,git,github,linux,vscode,react" />
+  <img src="https://skillicons.dev/icons?i=ruby,rails,flutter,dart,python,html,css,js,java,postgresql,mysql,docker,git,github,linux,vscode,react" />
 </p>
 
 ---
