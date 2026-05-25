@@ -34,18 +34,19 @@ open_to:      [ Collaborations, Innovative projects, Freelance ]
 ## 🚀 Tech Stack
 
 ### 🖥️ Backend
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=ruby,rails,python,php" />
 </p>
 
 ### 🎨 Frontend
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,flutter,dart,html,css,js" />
 </p>
 
 ### ☁️ Cloud & Serverless
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=aws" />
+  <br><br>
   <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
   <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
@@ -53,13 +54,8 @@ open_to:      [ Collaborations, Innovative projects, Freelance ]
 </p>
 
 ### 🗄️ Databases & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,docker,git,github,linux" />
-</p>
-
-### 🛠️ Other Tools & Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,docker,git,github,linux,vscode" />
 </p>
 
 ---
@@ -67,13 +63,17 @@ open_to:      [ Collaborations, Innovative projects, Freelance ]
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanCaballero09&show_icons=true&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" alt="stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=JuanCaballero09&theme=tokyonight&border=7c3aed&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" alt="streak" height="165"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=JuanCaballero09&show_icons=true&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" alt="stats" height="165"/> -->
+  <!-- <img src="https://streak-stats.demolab.com?user=JuanCaballero09&theme=tokyonight&border=7c3aed&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" alt="streak" height="165"/> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanCaballero09&theme=tokyonight" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanCaballero09&theme=tokyonight" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCaballero09&layout=compact&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" alt="top langs" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCaballero09&layout=compact&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" alt="top langs" /> -->
+  <img src="https://streak-stats.demolab.com?user=JuanCaballero09&theme=tokyonight&border=7c3aed&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" height="165"/>
 </div>
+
 
 ---
 
