@@ -19,7 +19,7 @@ side_projects: SaaS Products 🚀 | Fintech Dev 🏦
 
 skills:
   backend:    [ Ruby on Rails, Python, PHP, SQL ]
-  frontend:   [ React, Flutter, HTML/CSS, JavaScript ]
+  frontend:   [ Angular, React, Flutter, HTML/CSS, JavaScript ]
   cloud:      [ AWS, Lambda, Serverless Framework ]
   databases:  [ PostgreSQL, MySQL ]
   devops:     [ Docker, Git, Linux ]
@@ -40,7 +40,7 @@ open_to:      [ Collaborations, Innovative projects, Freelance ]
 
 ### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,dart,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=angular,react,flutter,dart,html,css,js" />
 </p>
 
 ### ☁️ Cloud & Serverless
